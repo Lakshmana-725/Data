@@ -83,10 +83,36 @@
   ],
   "Marital": [
     {
-      "single": "single",
-      "married": "married",
-      "divorced": "divorced",
-      "widow": "widow"
+      "id": 1,
+      "status": "Single"
+    },
+    {
+      "id": 2,
+      "status": "Married"
+    },
+    {
+      "id": 3,
+      "status": "Divorced"
+    },
+    {
+      "id": 4,
+      "status": "Widowed"
+    },
+    {
+      "id": 5,
+      "status": "Separated"
+    },
+    {
+      "id": 6,
+      "status": "In a relationship"
+    },
+    {
+      "id": 7,
+      "status": "Engaged"
+    },
+    {
+      "id": 8,
+      "status": "Complicated"
     }
   ],
   "Countries": [
