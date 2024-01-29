@@ -1,4 +1,23 @@
 {
   "CRUD": [
+{
+  "first_name": "Lakshman",
+  "last_name": "P",
+  "age": "23",
+  "gender": "male",
+  "marital_status": "single",
+  "email": "honos17835@namewok.com",
+  "status": "true",
+  "favorite_color": "#00ff33",
+  "contact_number": "9515230683",
+  "address": "10-137 Near Water Plant Front Side",
+  "language": "english",
+  "city": "Chirala",
+  "state": "AP",
+  "country": "India",
+  "postal_code": "523157",
+  "profile": "C:\\fakepath\\Lakshman.jpg",
+  "id": 1
+}
   ]
 }
